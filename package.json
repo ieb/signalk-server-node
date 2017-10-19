@@ -98,7 +98,12 @@
     "winston": "^2.3.0",
     "winston-daily-rotate-file": "^1.4.4",
     "ws": "^3.0.0",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.4.17",
+    "signalk-to-nke": "github:ieb/signalk-to-nke",
+    "signalk-telemetry":"github:ieb/signalk-telemetry",
+    "signalk-derived-data": "github:ieb/signalk-derived-data#withPolars",
+    "signalk-temperature": "github:ieb/signalk-temperature",
+    "signalk-sailingsensors": "github:ieb/signalk-sailingsensors"
   },
   "devDependencies": {
     "chai": "^4.0.0",
